@@ -13,6 +13,8 @@
 
     gem 'shotgun'
 
+    gem 'csv'
+
     #gem 'nokogiri'
   
     #gem 'dotenv' 
